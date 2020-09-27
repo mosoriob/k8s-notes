@@ -1,7 +1,7 @@
 ## How To Automate Deployments to DigitalOcean Kubernetes with CircleCI
 
 
-This is a fork of excellent article. 
+This is a fork from a excellent article by [Jonathan Cardoso Machado](https://github.com/JCMais). 
 The original article can be found [here](https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci)
 
 ### Intro
