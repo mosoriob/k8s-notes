@@ -1,0 +1,3 @@
+[submodule "ci/do-sample-app"]
+	path = ci/do-sample-app
+	url = git@github.com:mosoriob/do-sample-app-k8s.git
