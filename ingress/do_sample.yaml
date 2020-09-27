@@ -1,0 +1,12 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: do-kubernetes-sample-app-ingress
+spec:
+  rules:
+  - host: do-kubernetes-sample-app.mint.mosorio.dev
+    http:
+      paths:
+      - backend:
+          serviceName: do-kubernetes-sample-app
+          servicePort: 80
