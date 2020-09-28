@@ -40,3 +40,5 @@ For this tutorial, you will use Kubernetes version `v1.18.8` and kubectl version
 - [Step 4 — Creating the Role and the Role Binding](step4.md)
 - [Step 5 — Creating Your Sample Application](step5.md)
 - [Step 6 — Creating the Kubernetes Deployment and Service](step6.md)
+- [Step 7 — Configuring CircleCI](step7.md)
+- [Step 8 — Updating the Deployment on the Kubernetes Cluster](step8.md)
